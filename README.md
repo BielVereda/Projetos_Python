@@ -6,8 +6,8 @@ Este repositório contém os **projetos e códigos em Python** que desenvolvo pa
 
 ## 🧑‍💻 Sobre
 
-- 📌 Feito por: Gabriel dos Santos Vereda  
-- 🚀 Foco: Aprendizado prático de Python  
+- 📌 Feito por: Gabriel dos Santos Vereda;
+- 🚀 Foco: Aprendizado prático de Python;
 - 📚 Situação: Em constante crescimento – sempre adicionando novos códigos!
   
 
@@ -15,16 +15,16 @@ Este repositório contém os **projetos e códigos em Python** que desenvolvo pa
 
 ## 🛠️ Tecnologias utilizadas
 
-- Python 3.x
-- Editor de código (VS Code, PyCharm ou terminal)
-- Bibliotecas variadas (dependendo do projeto)
+- Python 3.8;
+- Editor de código (VS Code);
+- Bibliotecas variadas (dependendo do projeto).
 
 ## 🎯 Objetivos
 
-- Consolidar conhecimento na linguagem Python
-- Praticar lógica, estrutura de dados, OOP e bibliotecas
-- Desenvolver soluções simples, úteis ou criativas
-- Ter um repositório pessoal de consulta e aprendizado
+- Consolidar conhecimento na linguagem Python;
+- Praticar lógica, estrutura de dados, OOP e bibliotecas;
+- Desenvolver soluções simples, úteis ou criativas;
+- Ter um repositório pessoal de consulta e aprendizado.
   
 ---
 
