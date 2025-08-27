@@ -11,7 +11,7 @@ Este repositório contém os **projetos e códigos em Python** que desenvolvo pa
 - 📚 Situação: Em constante crescimento – sempre adicionando novos códigos!
   
 
-> Cada pasta contém um ou mais arquivos `.py` com código funcional, exemplos comentados e experimentos pessoais.
+> A pasta **Main** pasta contém arquivos `.py` com código funcional e experimentos pessoais.
 
 ## 🛠️ Tecnologias utilizadas
 
