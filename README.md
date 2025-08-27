@@ -22,7 +22,7 @@ Este repositório contém os **projetos e códigos em Python** que desenvolvo pa
 ## 🎯 Objetivos
 
 - Consolidar conhecimento na linguagem Python;
-- Praticar lógica, estrutura de dados, OOP e bibliotecas;
+- Praticar lógica, estrutura de dados e bibliotecas;
 - Desenvolver soluções simples, úteis ou criativas;
 - Ter um repositório pessoal de consulta e aprendizado.
   
